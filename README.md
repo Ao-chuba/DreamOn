@@ -4,6 +4,7 @@ DreamOn is a web application that interprets dreams using the Gemini API. The ap
 Tech Stack:
 Backend: Python, Django
 Frontend: HTML, CSS, JavaScript
+
 API:
 Authentication: Google OAuth
 Dream Interpretation: Gemini API

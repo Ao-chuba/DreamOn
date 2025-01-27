@@ -1,5 +1,5 @@
 # DreamOn
-DreamOn is a web application that interprets dreams using the Gemini API. The app allows users to sign in via Google authentication, explore dream interpretations, and make payments through a personal GPay QR code due to KYC issues with payment gateway integration.
+DreamOn is a web application that interprets dreams using the Gemini API. The app allows users to sign in via Google authentication, explore dream interpretations.
 
 Tech Stack:
 Backend: Python, Django
